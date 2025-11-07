@@ -1,6 +1,7 @@
 import React from 'react';
 import AJ from './img/AJ.JPG';
 
+
 function Child () {
 
 let age = 21;
